@@ -1,2 +1,1 @@
-# Algorithm
-Algorithm in practice
+These are a lot of small python crawlers I've written
